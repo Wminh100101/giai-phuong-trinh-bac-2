@@ -54,5 +54,6 @@ int main(int argc, char** argv) {
 		    cout<<"No";
 		  }
 	  }
+	cout<<"Ngac nhien khong thang lon";
 	return 0;
 }
